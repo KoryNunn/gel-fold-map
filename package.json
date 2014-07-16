@@ -1,6 +1,6 @@
 {
   "name": "gel-fold-map",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "a fold-map function for gel",
   "main": "index.js",
   "scripts": {
