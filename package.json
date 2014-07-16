@@ -1,0 +1,19 @@
+{
+  "name": "gel-fold-map",
+  "version": "0.0.0",
+  "description": "a fold-map function for gel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KoryNunn/gel-fold-map.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/gel-fold-map/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/gel-fold-map"
+}
